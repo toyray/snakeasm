@@ -1,0 +1,5 @@
+#include "\MASM32\Include\Resource.h"
+
+#define IDI_APP     200
+
+IDI_APP   ICON    "hello.ico"
